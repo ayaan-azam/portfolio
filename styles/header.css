@@ -1,0 +1,56 @@
+body{
+    font-family:Poppins, Arial;
+    margin:0;
+    padding:0;
+    background-color: #7d7d7d;
+}
+
+
+
+.header{
+    background-color:#4b4a4a;
+    color:white;
+    padding:20px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items:center;
+    border-radius:10px;
+    margin-bottom: 12px;
+    position:fixed;
+    top:0;
+    right:0;
+    left:0;
+    z-index:10000;
+
+}
+
+
+.header p{
+    font-size:24px;
+    font-weight:600;
+    margin:0;
+}
+
+.header-btn ul{
+    display:flex;
+    gap:30px;
+    list-style:none;
+}
+
+
+
+
+.header-btn ul li a{
+    color:white;
+    text-decoration: none;
+    font-weight:500;
+    border-bottom:2px transparent white;
+}
+
+.header-btn ul li a:hover {
+    opacity:0.4;
+    border-bottom:2px solid white;
+
+}
+
