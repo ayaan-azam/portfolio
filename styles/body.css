@@ -48,8 +48,8 @@
     display:flex;
     justify-content: center;
     align-items:center;
-    border-radius:50%;
-    background-color: white;
+    border-radius:40px;
+    background-color: rgb(42, 161, 180);
     color:black;
     transition: font-weight 0.4s,
     height 0.4s, width 0.4s;
@@ -61,27 +61,27 @@
     margin-bottom:4px;
     height:140px;
     width:160px;
-    border-radius:50%;
+    border-radius:40px;
     display:flex;
     justify-content: center;
     align-items:center;
     margin-left:100px;
-    background-color: white;
+    background-color: rgb(59, 105, 151);
     color:black;
         transition: font-weight 0.4s,
     height 0.4s, width 0.4s;
 }
 
 .m{
-        border:2px solid black;
+    border:2px solid black;
     margin-bottom:4px;
     height:140px;
     width:160px;
-    border-radius:50%;
+    border-radius:40px;
     display:flex;
     justify-content: center;
     align-items:center;
-    background-color: white;
+    background-color: rgb(23, 119, 103);
     color:black;
         transition: font-weight 0.4s,
     height 0.4s, width 0.4s;
