@@ -67,7 +67,7 @@
     align-items:center;
     margin-left:100px;
     background-color: rgb(59, 105, 151);
-    color:black;
+    color:rgb(57, 57, 57);
         transition: font-weight 0.4s,
     height 0.4s, width 0.4s;
 }
